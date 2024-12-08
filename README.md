@@ -40,24 +40,23 @@ php artisan serve
 credentails
 ```
 username: hayder
-password: 123456
+password: password
 ```
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (3).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (4).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (5).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (6).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (7).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (8).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (9).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (10).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_29 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_39 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_51 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_59 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_14 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_31 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_26 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_37 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_44 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_50 PM.png" width="100%" /><br /> <br />
+<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_39_19 PM.png" width="100%" /><br /> <br />
+
 
 ```
 Make sure to leave a start ✨✨
