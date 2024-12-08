@@ -5,7 +5,7 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
+    git clone https://github.com/HayderLabidi/libraray_managment.git
 ```
 
 change current directory
